@@ -39,8 +39,9 @@ const Portfolio = () => {
                 flyness.io - Global Casting Platform
               </CardTitle>
               <CardDescription className="text-lg">
-                A comprehensive casting and talent platform connecting performers with casting directors worldwide. 
-                Features include talent profiles, job listings, application management, and community building tools.
+                Our flagship platform revolutionizing the casting industry. Built from the ground up with React and Node.js, 
+                flyness.io handles thousands of users, real-time messaging, video submissions, and secure payment processing. 
+                Currently in beta with growing international user base.
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -49,18 +50,20 @@ const Portfolio = () => {
                 <Badge variant="secondary">Node.js</Badge>
                 <Badge variant="secondary">PostgreSQL</Badge>
                 <Badge variant="secondary">AWS</Badge>
-                <Badge variant="secondary">Real-time Chat</Badge>
-                <Badge variant="secondary">Payment Processing</Badge>
+                <Badge variant="secondary">Video Uploads</Badge>
+                <Badge variant="secondary">Stripe Integration</Badge>
+                <Badge variant="secondary">Socket.io</Badge>
+                <Badge variant="secondary">Redis Cache</Badge>
               </div>
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-6 text-muted-foreground">
                   <div className="flex items-center gap-2">
                     <Users className="w-4 h-4" />
-                    <span>Global Community</span>
+                    <span>1000+ Beta Users</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <Star className="w-4 h-4" />
-                    <span>Featured Platform</span>
+                    <span>Live Platform</span>
                   </div>
                 </div>
                 <Button className="bg-gradient-primary group">

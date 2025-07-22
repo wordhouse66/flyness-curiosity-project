@@ -49,14 +49,14 @@ const About = () => {
               Our Story
             </h3>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Founded with a vision to bridge the gap between innovative ideas and exceptional digital execution, 
-              Plus Frames Limited has established itself as a trusted partner for businesses seeking high-quality 
-              web development solutions.
+              We started with an ambitious goal: create flyness.io, a casting platform that would revolutionize 
+              how performers connect with opportunities. After 18 months of development, we successfully launched 
+              a platform now serving over 1000 beta users across multiple countries.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Our expertise gained recognition through the successful development and launch of flyness.io, 
-              a comprehensive casting and talent platform that connects performers with opportunities worldwide. 
-              This success has positioned us as experts in building complex, user-centric web applications.
+              The technical challenges we solved building flyness.io - from real-time video processing to complex 
+              user matching algorithms - proved our ability to handle enterprise-level projects. Now we apply 
+              this proven expertise to custom development work for other forward-thinking businesses.
             </p>
             <div className="flex flex-wrap gap-3">
               <Badge className="bg-primary/10 text-primary border-primary/20">Full-Stack Development</Badge>

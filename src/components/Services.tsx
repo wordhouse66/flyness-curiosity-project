@@ -19,8 +19,8 @@ const Services = () => {
     {
       icon: Globe,
       title: "Platform Development",
-      description: "Complex platforms like flyness.io with user management, real-time features, and advanced functionality for specific industries.",
-      features: ["User Authentication", "Real-time Features", "Payment Integration", "Admin Dashboards"]
+      description: "Complex platforms like flyness.io with user management, real-time features, and advanced functionality. Proven with 1000+ active users.",
+      features: ["Video Upload & Processing", "Real-time Messaging", "Payment Integration", "Advanced Search & Matching"]
     },
     {
       icon: Database,

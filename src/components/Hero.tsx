@@ -24,8 +24,8 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
-            We build cutting-edge web applications and platforms that transform ideas into digital reality. 
-            Creators of <span className="text-accent font-semibold">flyness.io</span> and custom solutions for forward-thinking clients.
+            We're the team behind <span className="text-accent font-semibold">flyness.io</span> - a global casting platform serving thousands of performers and casting directors. 
+            Now we bring that same expertise to custom web development projects for ambitious businesses.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
